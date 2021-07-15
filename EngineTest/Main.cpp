@@ -1,4 +1,4 @@
-#pragma comment(lib, "engine.lib");
+#pragma comment(lib, "engine.lib")
 
 #define TEST_ENTITY_COMPONENTS 1
 

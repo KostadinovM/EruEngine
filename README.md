@@ -14,6 +14,10 @@ http://bitsquid.blogspot.com/2014/10/building-data-oriented-entity-system_10.htm
 http://bitsquid.blogspot.com/2011/09/managing-decoupling-part-4-id-lookup.html
 
 ### C++ Resources
+#### What every programmer should know about memory:
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+#### Branch misprediction
+https://lemire.me/blog/2019/10/15/mispredicted-branches-can-multiply-your-running-times/
 #### Name Mangling:
 https://en.wikipedia.org/wiki/Name_mangling
 #### Memory leak flags:
