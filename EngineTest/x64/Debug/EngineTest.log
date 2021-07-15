@@ -1,4 +1,2 @@
 ﻿  Main.cpp
-C:\dev\GameEngine\Eru\EngineTest\Main.cpp(1,35): warning C4081: expected 'newline'; found ';'
-C:\dev\GameEngine\Eru\EngineTest\TestEntityComponents.h(75,5): warning C4552: '+': result of expression not used
   EngineTest.vcxproj -> C:\dev\GameEngine\Eru\x64\Debug\EngineTest.exe
