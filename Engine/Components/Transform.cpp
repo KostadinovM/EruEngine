@@ -16,6 +16,7 @@ component create_transform(const init_info& info, game_entity::entity entity)
 	assert(entity.is_valid());
 	const id::id_type entity_index{ id::index(entity.get_id()) };
 
+
 	if (positions.size() > entity_index) //if component is within the length of the array, we override slot in array
 	{
 		rotations[entity_index] = math::v4(info.rotation);
